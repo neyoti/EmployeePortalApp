@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{A2E1F348-4E51-463E-BCE2-B1C866734F1C}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ServerApp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServerApp/Program.cs">
+    <Files>
+      <File FileName="ServerApp/Models/Employee.cs" />
+      <File FileName="ServerApp/Models/EmployeeContext.cs" />
+      <File FileName="ServerApp/appsettings.json" />
+      <File FileName="ServerApp/Controllers/EmployeeController.cs" />
+      <File FileName="ServerApp/Properties/launchSettings.json" />
+      <File FileName="ServerApp/Program.cs" Line="36" Column="2" />
+      <File FileName="ServerApp/Controllers/FakeController.cs" Line="9" Column="1" />
+      <File FileName="ServerApp/CustomData/Data.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ServerApp" expanded="True">
+            <Node name="ServerApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="CustomData" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
